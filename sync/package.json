@@ -4,5 +4,8 @@
   "main": "index.js",
   "author": "leesh0",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "@notionhq/client": "^2.2.3"
+  }
 }
