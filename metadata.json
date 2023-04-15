@@ -1,0 +1,9 @@
+{
+  "site": "sh0",
+  "navigation": [
+    { "name": "Home", "to": "/" },
+    { "name": "Servers", "to": "/articles" },
+    { "name": "Articles", "to": "/articles" },
+    { "name": "Issues", "to": "/issues" }
+  ]
+}
